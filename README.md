@@ -1,5 +1,5 @@
-- 👋 Hi, this is Lavanya
-- I am a beginner Python programmer, learning coding for data analysis, GIS, and remote sensing...
+- 👋 Hi, this is Lavanya Gopal
+- I am learning all about GIS, Cartography, Spatial Data Analysis, Remote Sensing, Scripting and many more fun topics...
   
 <!---
 lavs5/lavs5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
